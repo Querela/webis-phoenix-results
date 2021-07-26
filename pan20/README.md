@@ -6,6 +6,9 @@
 |---|---|---|---|
 |Majority|0.5309|0.5309|0.6936|
 |Unsupervised Similarity|0.4690|0.4690|0.0000|
+|Supervised Similarity|0.5291|0.5291|0.6737|
+|Imposters|0.4747|0.4747|0.0946|
+|General Imposters|0.4748|0.4748|0.0985|
 |StyleBird|0.8853|0.8853|0.8911|
 
 ## Reproduce split:
