@@ -9,6 +9,7 @@
 |Supervised Similarity|0.5291|0.5291|0.6737|
 |Imposters|0.4747|0.4747|0.0946|
 |General Imposters|0.4748|0.4748|0.0985|
+|Unmasking (Random Sampling)|0.7390|0.7390|0.7429|
 |StyleBird|0.8853|0.8853|0.8911|
 
 ## Reproduce split:
