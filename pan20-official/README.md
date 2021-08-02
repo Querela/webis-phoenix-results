@@ -2,7 +2,7 @@
 
 ## Results
 
-|Method|Acc||F1|
+|Method|Acc|F1|
 |---|---|---|
 |Majority|0.5440|0.7047|
 |Unsupervised Similarity|0.4559|0.0000|
